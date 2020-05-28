@@ -84,6 +84,7 @@ import filesWord from './filesWord'
 import filesWordBrand from './filesWordBrand'
 import filesZip from './filesZip'
 import flag from './flag'
+import focusMode from './focusMode'
 import fontColor from './fontColor'
 import fontSize from './fontSize'
 import format from './format'
@@ -250,6 +251,7 @@ export default {
   'files-video': filesVideo,
   'files-zip': filesZip,
   flag,
+  'focus-mode':focusMode,
   download,
   edit,
   email,
